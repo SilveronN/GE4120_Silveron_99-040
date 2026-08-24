@@ -2,29 +2,10 @@
 
 ## Description
 
-This project involved analyzing an AC circuit and comparing theoretical calculations with experimental measurements.
+This is Noel Silveron's GitHub repository for his course GE 4120, 99-040.
 
-## Objectives
-
-- Analyze the behavior of an AC circuit.
-- Calculate theoretical values.
-- Compare theoretical and experimental results.
-- Determine possible sources of error.
-
-## Tools and Equipment
-
-- Oscilloscope
-- Function generator
-- Multimeter
-- Resistors
-- Capacitors
-
-## Results
-
-The experimental results were compared with the theoretical calculations.
-
-## Files
-
-- [Laboratory Report](./Laboratory-Report.pdf)
-- [Circuit Diagram](./Circuit-Diagram.png)
-- [Experimental Results](./Results/)
+## Prelim
+- [Project 1]
+- [Project 2]
+- [Project 3]
+- [Prelim Exam]
