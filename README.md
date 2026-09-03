@@ -1,8 +1,8 @@
 # GE 4120, 99-040
 
 ## Introduction
-# Name: Noel Job C. Silveron
-# Year & Course: BSEE, 3-A
+### Name: Noel Job C. Silveron
+### Year & Course: BSEE, 3-A
 
 ## Prelim
 - [Activity 1](./ACTIVITY-1)
