@@ -15,3 +15,4 @@ This is Noel Silveron's GitHub repository for his course GE 4120, 99-040.
 - [Midterm Exam](./MIDTERM-EXAM)
 
 ## Prefinal
+- [Activity 5](./ACTIVITY-5)
