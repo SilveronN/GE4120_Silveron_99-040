@@ -13,10 +13,10 @@
 
 <img width="100" height="100" alt="photosME" src="https://github.com/user-attachments/assets/4860c3f2-1b0c-435a-9d43-f6c2c37a09f7" />
 
-### ![Name:](https://img.shields.io/badge/GE_4120-FFD700?style=flat&labelColor=FFD700&color=FFD700) Noel Job C. Silveron  
-### Year & Course: BSEE, 3-A
-### School: Ateneo de Davao University
-### Interests: Anime, Videogames, Engineering
-### Skills: Leadership, Wiring, Arithmetic, Communication Skills, etc.
+### 🟡 Name: Noel Job C. Silveron  
+### 🟠 Year & Course: BSEE, 3-A
+### 🟡 School: Ateneo de Davao University
+### 🟠 Interests: Anime, Videogames, Engineering
+### 🟡 Skills: Leadership, Wiring, Arithmetic, Communication Skills, etc.
 
 ![Name:](https://img.shields.io/badge/GE_4120-FFD700?style=flat&labelColor=FFD700&color=FFD700)
