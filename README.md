@@ -5,7 +5,7 @@
 
 
 
-### Name: Noel Job C. Silveron (images/photo.png) 
+### Name: Noel Job C. Silveron (images/photoME.jpg) 
 ### Year & Course: BSEE, 3-A
 ### School: Ateneo de Davao University
 ### Interests: Anime, Videogames, Engineering
