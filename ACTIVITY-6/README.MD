@@ -8,6 +8,7 @@
 ### Use any website-building tools to create a one-page website.
 #### Bolt.ai
 
+### Make a google document containing:
 #### Prepare Your Activity Documentation in PDF Format
 #### Objective of the website
 #### Screenshots of your prompt
