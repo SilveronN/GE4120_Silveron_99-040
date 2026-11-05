@@ -3,7 +3,7 @@
 # GE 4120, 99-040
 
 ## Introduction
-#### ⚡ This is Noel Silveron's GitHub repository for his course GE 4120, 99-040. ⚡
+#### <span style="color: yellow;">⚡ This is Noel Silveron's GitHub repository for his course GE 4120, 99-040. ⚡ </span>
 
 <img width="100" height="100" alt="photosME" src="https://github.com/user-attachments/assets/4860c3f2-1b0c-435a-9d43-f6c2c37a09f7" />
 
