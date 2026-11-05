@@ -9,9 +9,9 @@ c. Advocacy Projects /
 Bolt.ai
 
 ### Prepare Your Activity Documentation in PDF Format
-Objective of the website
-Screenshots of your prompt
-Screenshots of your website
-Short reflection about the activity
-File name: surname_activity6
+### Objective of the website
+### Screenshots of your prompt
+### Screenshots of your website
+### Short reflection about the activity
+### File name: surname_activity6
 
