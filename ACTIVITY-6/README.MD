@@ -1,12 +1,12 @@
 # Instruction:
 
 ### In this activity, we chose one concept for our website.
-### a. Personal Portfolio
-### b. Business Idea
-### c. Advocacy Projects /
+#### a. Personal Portfolio
+#### b. Business Idea
+#### c. Advocacy Projects /
  
 ### Use any website-building tools to create a one-page website.
-### Bolt.ai
+ Bolt.ai
 
 ### Prepare Your Activity Documentation in PDF Format
 ### Objective of the website
