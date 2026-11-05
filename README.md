@@ -3,9 +3,9 @@
 ## Introduction
 #### This is Noel Silveron's GitHub repository for his course GE 4120, 99-040.
 
+[Photo of Me](images/photoME.jpg)
 
-
-### Name: Noel Job C. Silveron (images/photoME.jpg) 
+### Name: Noel Job C. Silveron  
 ### Year & Course: BSEE, 3-A
 ### School: Ateneo de Davao University
 ### Interests: Anime, Videogames, Engineering
