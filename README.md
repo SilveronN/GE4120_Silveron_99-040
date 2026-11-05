@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D47A1&height=150&section=header&text=Electrical%20Engineering&fontSize=35&fontColor=EF6C00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=#FFFF00&height=150&section=header&text=Electrical%20Engineering&fontSize=35&fontColor=EF6C00" width="100%"/>
 
 </div>
 
@@ -19,4 +19,4 @@
 ### 🟠 Interests: Anime, Videogames, Engineering
 ### 🟡 Skills: Leadership, Wiring, Arithmetic, Communication Skills, etc.
 
-![Name:](https://img.shields.io/badge/GE_4120-FFD700?style=flat&labelColor=FFD700&color=FFD700)
+
