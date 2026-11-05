@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=#FFFF00&height=150&section=header&text=Electrical%20Engineering&fontSize=35&fontColor=EF6C00" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,100:FF6D00&height=150&section=header&text=Electrical%20Engineering&fontSize=35&fontColor=FFFFFF" width="100%"/>
 
 </div>
 
