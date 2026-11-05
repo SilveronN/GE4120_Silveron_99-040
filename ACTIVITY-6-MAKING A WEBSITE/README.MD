@@ -1,4 +1,4 @@
-# Instruction:
+# 🟡Instruction:
 
 ### In this activity, we chose one concept for our website.
 #### a. Personal Portfolio
@@ -16,7 +16,7 @@
 #### Short reflection about the activity
 #### File name: surname_activity6
 
-# Reflection:
+# 🟠Reflection:
 ### I learned how to choose one website concept(advocacy project) and turn it into a working one-page website using Bolt.ai. Writing clear prompts showed me that the more specific I am about the content, layout, and style, the closer the result is to what I imagined. This activity also taught me to review and refine what an AI tool generates, since the first version still needed changes before it matched my objective.
 
 
