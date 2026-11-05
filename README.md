@@ -16,3 +16,5 @@ This is Noel Silveron's GitHub repository for his course GE 4120, 99-040.
 
 ## Prefinal
 - [Activity 5](./ACTIVITY-5)
+- [Activity 6](./ACTIVITY-6)
+- [Activity 7](./ACTIVITY-7)
