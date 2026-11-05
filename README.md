@@ -1,4 +1,8 @@
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0D47A1&height=150&section=header&text=Electrical%20Engineering&fontSize=35&fontColor=EF6C00" width="100%"/>
+
+</div>
   
 # GE 4120, 99-040
 
