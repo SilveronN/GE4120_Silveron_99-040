@@ -10,16 +10,3 @@
 ### School: Ateneo de Davao University
 ### Interests: Anime, Videogames, Engineering
 ### Skills: Leadership, Wiring, Arithmetic, Communication Skills, etc.
-
-## Prelim
-- [Activity 1](./ACTIVITY-1)
-- [Activity 2](./ACTIVITY-2)
-- [Activity 3](./ACTIVITY-3)
-
-## Midterm
-- [Midterm Exam](./MIDTERM-EXAM)
-
-## Prefinal
-- [Activity 5](./ACTIVITY-5)
-- [Activity 6](./ACTIVITY-6)
-- [Activity 7](./ACTIVITY-7)
